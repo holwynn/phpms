@@ -1,0 +1,118 @@
+body {
+	background: #f1f1f1;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+/* Defaults */
+.shadow {
+	box-shadow: 0 0 3px rgba(0,0,0,0.32);
+	-webkit-box-shadow: 0 0 3px rgba(0,0,0,0.32);
+}
+
+.bg 
+{	background: #fff;
+}
+
+dt {
+	width: 80px !important;
+}
+
+dd {
+	margin-left: 100px !important;
+}
+
+.content {
+	padding-bottom: 15px;
+}
+
+/* Top Banner */
+.topbanner {
+	min-height: 120px;
+}
+
+.nav ul {
+	text-align: center;
+}
+
+/* Server Status */
+.serverstatus {
+	max-width: 400px;
+	margin-bottom: 25px;
+}
+
+.serverstatus-row {
+	border-radius: 0 0 12px 12px;
+	text-align: center;
+	/* This is a different shadow */
+	box-shadow: 0px 1px 3px rgba(0,0,0,0.32);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.32);
+	
+}
+
+/* Footer */
+.footer {
+	margin-top: 25px;
+}
+
+/* User side panel */
+.user-side-panel button {
+	margin-bottom: 10px;
+	width: 150px;
+}
+
+/* Home */
+.slider {
+	padding: 0;
+}
+
+.login {
+	margin-bottom: 25px;
+}
+
+/* Register */
+.register {
+	text-align: center;
+}
+.register input {
+	width: 50%;
+	margin: auto;
+}
+
+/* Login */
+.login-module {
+	padding: 25px;
+}
+
+/* Downloads */
+.downloads-module {
+	text-align: center;
+}
+.downloads-module button {	
+	width: 150px;
+	height: 55px;
+}
+
+/* Rankings */
+.rankings-module {
+
+}
+
+.td-job {
+	width: 54px;
+	text-align: center;
+}
+
+/* Control Panel */
+.character-container {
+	text-align: center;
+}
+.character-box {
+	width: 200px;
+	margin-left: 15px;
+	padding: 5px;
+	float: left;
+	margin-bottom: 15px;
+}
